@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Box-Shadow-Generator/static/css/main.c4cd1b19.css",
+    "main.js": "/Box-Shadow-Generator/static/js/main.4dcc8909.js",
+    "static/js/787.a4587ce9.chunk.js": "/Box-Shadow-Generator/static/js/787.a4587ce9.chunk.js",
+    "index.html": "/Box-Shadow-Generator/index.html",
+    "main.c4cd1b19.css.map": "/Box-Shadow-Generator/static/css/main.c4cd1b19.css.map",
+    "main.4dcc8909.js.map": "/Box-Shadow-Generator/static/js/main.4dcc8909.js.map",
+    "787.a4587ce9.chunk.js.map": "/Box-Shadow-Generator/static/js/787.a4587ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4cd1b19.css",
+    "static/js/main.4dcc8909.js"
+  ]
+}
