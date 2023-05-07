@@ -43,8 +43,8 @@
 }
 
 @media (min-width: 767px) {
-  .box {
-    width: 100%;
+  .App {
+    width: 80%;
   }
 }
 
