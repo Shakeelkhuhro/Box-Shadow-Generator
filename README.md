@@ -6,11 +6,11 @@ To use the Box Shadow Generator, simply visit the live demo or follow the instal
 
 Once the application is running, you can adjust the following box shadow properties using the sliders or color picker:
 
-**Horizontal Length**: Controls the horizontal offset of the box shadow.
-**Vertical Length**: Controls the vertical offset of the box shadow.
-**Blur Radius**: Controls the blur radius of the box shadow.
-**Color**: Controls the color of the box shadow.
-**Inset/Outset**: Controls whether the box shadow appears inside or outside of the element.
+<br>**Horizontal Length**: Controls the horizontal offset of the box shadow.
+<br>**Vertical Length**: Controls the vertical offset of the box shadow.
+<br>**Blur Radius**: Controls the blur radius of the box shadow.
+<br>**Color**: Controls the color of the box shadow.
+<br>**Inset/Outset**: Controls whether the box shadow appears inside or outside of the element.
 As you adjust these properties, the box shadow will update in real time. You can also click the "Copy CSS" button to copy the generated CSS code to your clipboard.
 
 ## Installation
